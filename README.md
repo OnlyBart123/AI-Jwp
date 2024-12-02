@@ -17,3 +17,6 @@ https://bart619450.github.io/lab8/
 
 Link do strony lab9:
 https://bart619450.github.io/lab9/
+
+Link do strony lab10:
+https://bart619450.github.io/lab10/
