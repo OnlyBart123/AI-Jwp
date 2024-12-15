@@ -20,3 +20,6 @@ https://bart619450.github.io/lab9/
 
 Link do strony lab10:
 https://bart619450.github.io/lab10/
+
+Link do strony lab11:
+https://lab11-zeta.vercel.app
