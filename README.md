@@ -23,3 +23,6 @@ https://bart619450.github.io/lab10/
 
 Link do strony lab11:
 https://lab11-zeta.vercel.app
+
+Link do strony lab12:
+https://lab12-azure.vercel.app/community
