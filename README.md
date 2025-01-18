@@ -26,3 +26,6 @@ https://lab11-zeta.vercel.app
 
 Link do strony lab12:
 https://lab12-azure.vercel.app/community
+
+Link do strony lab13:
+https://lab13-next-js-43i8.vercel.app
